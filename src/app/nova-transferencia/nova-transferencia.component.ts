@@ -1,6 +1,4 @@
-import { Output } from '@angular/core';
-import { Component } from '@angular/core';
-import { EventEmitter } from 'stream';
+import { Output, Component, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-nova-transferencia',
