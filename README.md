@@ -60,7 +60,7 @@ $ ng s -o
 
 ## <a id="id3"> 🖼️ Demonstração </a>
 
-![GIF](github/Animacao.gif)
+![GIF](github/Animação.gif)
  
 [nodejs]: https://nodejs.org/
 [angular]: https://angular.io/
