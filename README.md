@@ -3,22 +3,24 @@
 <h1 align="center"> :moneybag: ByteBank :moneybag:</h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielcoelhox/chess-game-java">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielcoelhox/bytebank">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabrielcoelhox/chess-game-java">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabrielcoelhox/bytebank">
 
   <a href="https://github.com/gabrielcoelhox/chess-game-java/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrielcoelhox/chess-game-java">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrielcoelhox/bytebank">
   </a>
 </p>
 
 [Projeto](#id1)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 [Como executar o projeto](#id2)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-[Demonstração](#id4)
+[Demonstração](#id3)
 
 ## <a id="id1"> 💻 Projeto </a>
 
 Este projeto foi desenvolvido com o intuito de exercitar o conteúdo aprendido no curso de formação em *__[Angular][Angular]__* da Alura. Bytebank é um sistema básico que simula transferências bancárias. É possível realizar transferência e visualizar o extrato.
+
+ ![IMG](github/img.png)
 
 ## <a id="id2">:hammer_and_wrench: Como executar o projeto
 
@@ -56,8 +58,9 @@ $ ng s -o
 ```
 </details>
 
-## <a id="id4"> 🖼️ Demonstração </a>
+## <a id="id3"> 🖼️ Demonstração </a>
 
+![GIF](github/animacao.gif)
  
 [nodejs]: https://nodejs.org/
 [angular]: https://angular.io/
